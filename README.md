@@ -27,13 +27,13 @@ Repo’yu klonla:
 ```
 git clone https://github.com/v01dHackTeam/otosint.git
 cd otosint
-
+```
 setup.py ile kur:
-
+```
 python3 setup.py install
-
+```
 veya direkt çalıştır:
-
+```
 python3 otosint.py
 ```
 
