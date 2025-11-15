@@ -30,11 +30,11 @@ cd otosint
 ```
 setup.py ile kur:
 ```
-python3 setup.py install
+python3 setup.py
 ```
-veya direkt çalıştır:
+direkt çalıştır:
 ```
-python3 otosint.py
+otosint
 ```
 
 ---
